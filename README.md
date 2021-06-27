@@ -1,7 +1,7 @@
 # Hi, I am Sujal Singh 🤘😎
 #### I love computers, that's it. 💻💘
 * Learning about compiler design right now.
-* Working on creating a programming language as a school project.
+* Working on creating a web browser in python as a school project.
 #### Want to talk about a project? 🚀👨‍🚀
 * Here's my [email](mailto:email.sujalsingh@gmail.com)
 * `email.sujalsingh@gmail.com`📧
