@@ -1,1 +1,1 @@
-![terminal](./terminal.svg)
+![terminal](./additional-assets/terminal.svg)
