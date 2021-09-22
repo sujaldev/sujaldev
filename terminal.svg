@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 610 365">
     <defs>
         <style>
+            @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap');
+
+            .bold, .regular {
+            font-family: 'Open Sans', sans-serif;
+            fill: #fff;
+            }
+
             .bold {
             font-size: 10.5px;
-            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color
-            Emoji","Segoe UI Emoji";
-            font-weight: bold;
+            font-weight: 700;
             }
 
             .regular {
             font-size: 9.75px;
-            font-family: Consolas;
-            }
-
-            .bold, .regular {
-            fill: #fff;
+            font-weight: 400;
             }
         </style>
     </defs>
@@ -33,12 +34,12 @@
         <text id="PROMPT" class="bold" transform="translate(36.69 77.13)">&gt;&gt;&gt; sujal --help</text>
         <text id="HELP" class="regular" transform="translate(36.69 100.38)">
             <tspan xml:space="preserve">    Sujal is a tool for developing HTML/CSS/JS/PYTHON,</tspan>
-            <tspan x="0" y="11.5" xml:space="preserve">    In case of missing skill depencencies, automatically tries to resolve.</tspan>
+            <tspan x="0" y="11.5" xml:space="preserve">    In case of missing skill dependencies, automatically tries to resolve.</tspan>
             <tspan x="0" y="34.5" xml:space="preserve">    Usage:</tspan>
             <tspan x="0" y="46" xml:space="preserve">        sujal [OPTIONS] ... &lt;command&gt; [ARGUMENTS] ...</tspan>
             <tspan x="0" y="69" xml:space="preserve">    OPTIONS:</tspan>
-            <tspan x="0" y="80.5" xml:space="preserve">        -P, --Python       develop with python</tspan>
-            <tspan x="0" y="92" xml:space="preserve">        -H, --html          develop fronted with HTML</tspan>
+            <tspan x="0" y="80.5" xml:space="preserve">        -P, --python       develop with python</tspan>
+            <tspan x="0" y="92" xml:space="preserve">        -H, --html          develop frontend with HTML</tspan>
             <tspan x="0" y="103.5" xml:space="preserve">        -C ,--css             style html with CSS</tspan>
             <tspan x="0" y="115" xml:space="preserve">        -J, --javascript   develop with JavaScript</tspan>
             <tspan x="0" y="126.5" xml:space="preserve">        -f                       develop fast</tspan>
