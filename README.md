@@ -1,2 +1,2 @@
 - [A cool project](https://github.com/sujaldev/skylon)
-- IRC: sdev
+- IRC: sdev on [libera.chat](https://libera.chat/)
