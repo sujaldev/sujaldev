@@ -5,6 +5,9 @@
 
 Not all repositories are mentioned here.
 
+<table>
+<tr>
+<td>
 <details>
 <summary><h4>Computer Graphics</h4></summary>
 <ul>
@@ -34,7 +37,8 @@ Not all repositories are mentioned here.
 </li>
 </ul>
 </details>
-
+</td>
+<td>
 <details>
 <summary><h4>Computer Networking</h4></summary>
 <ul>
@@ -49,7 +53,11 @@ Not all repositories are mentioned here.
 </li>
 </ul>
 </details>
+</td>
+</tr>
 
+<tr>
+<td>
 <details>
 <summary><h4>Automation & Utilities</h4></summary>
 <ul>
@@ -79,7 +87,8 @@ Not all repositories are mentioned here.
 </li>
 </ul>
 </details>
-
+</td>
+<td>
 <details>
 <summary><h4>Documents & Resources</h4></summary>
 <ul>
@@ -114,7 +123,11 @@ Not all repositories are mentioned here.
 </li>
 </ul>
 </details>
+</td>
+</tr>
 
+<tr>
+<td>
 <details>
 <summary><h4>Browser Extensions</h4></summary>
 <ul>
@@ -128,7 +141,8 @@ Not all repositories are mentioned here.
 </li>
 </ul>
 </details>
-
+</td>
+<td>
 <details>
 <summary><h4>Miscellaneous</h4></summary>
 <ul>
@@ -142,3 +156,6 @@ Not all repositories are mentioned here.
 <li><a href="https://github.com/sujaldev/gflight-api">gflight-api</a></li>
 </ul>
 </details>
+</td>
+</tr>
+</table>
