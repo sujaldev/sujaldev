@@ -62,6 +62,10 @@ Not all repositories are mentioned here.
 <summary><h4>Automation & Utilities</h4></summary>
 <ul>
 <li>
+    <a href="github.com/sujaldev/LaTeXHub">LaTeXHub</a>:
+    Quickly compiles a PDF from your GitHub repository and publishes it on your website.
+</li>
+<li>
     <a href="github.com/sujaldev/fedora-post-install">fedora-post-install</a>:
     My fedora installation automated with ansible.
 </li>
