@@ -62,11 +62,11 @@ Not all repositories are mentioned here.
 <summary><h4>Automation & Utilities</h4></summary>
 <ul>
 <li>
-    <a href="github.com/sujaldev/LaTeXHub">LaTeXHub</a>:
+    <a href="https://github.com/sujaldev/LaTeXHub">LaTeXHub</a>:
     Quickly compiles a PDF from your GitHub repository and publishes it on your website.
 </li>
 <li>
-    <a href="github.com/sujaldev/fedora-post-install">fedora-post-install</a>:
+    <a href="https://github.com/sujaldev/fedora-post-install">fedora-post-install</a>:
     My fedora installation automated with ansible.
 </li>
 <li>
@@ -97,7 +97,7 @@ Not all repositories are mentioned here.
 <summary><h4>Documents & Resources</h4></summary>
 <ul>
 <li>
-    <a href="github.com/sujaldev/resume">resume</a>:
+    <a href="https://github.com/sujaldev/resume">resume</a>:
     My resume.
 </li>
 <li>
@@ -109,7 +109,7 @@ Not all repositories are mentioned here.
     Calendar for GSoC 2023.
 </li>
 <li>
-    <a href="github.com/sujaldev/ACT-intranet-report">act-intranet-report</a>:
+    <a href="https://github.com/sujaldev/ACT-intranet-report">act-intranet-report</a>:
     My first bug bounty report.
 </li>
 <li>
@@ -136,7 +136,7 @@ Not all repositories are mentioned here.
 <summary><h4>Browser Extensions</h4></summary>
 <ul>
 <li>
-    <a href="github.com/sujaldev/vistube">vistube</a>:
+    <a href="https://github.com/sujaldev/vistube">vistube</a>:
     I use this to hide everything except for the video tag on YouTube.
 </li>
 <li>
