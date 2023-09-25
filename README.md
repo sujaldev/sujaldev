@@ -62,6 +62,11 @@ Not all repositories are mentioned here.
 <summary><h4>Automation & Utilities</h4></summary>
 <ul>
 <li>
+    <a href="https://github.com/sujaldev/usar-notice-mailing-list">usar-notice-mailing-list</a>:
+    Scrapes my university's website for new notifications/circulars and sends it out as an email to a mailing list on
+    google groups.
+</li>
+<li>
     <a href="https://github.com/sujaldev/LaTeXHub">LaTeXHub</a>:
     Quickly compiles a PDF from your GitHub repository and publishes it on your website.
 </li>
