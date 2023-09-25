@@ -1,5 +1,11 @@
-- [A cool project](https://github.com/sujaldev/skylon)
-- IRC: sdev on [libera.chat](https://libera.chat/)
+<table>
+<tr>
+<td><a href="https://github.com/sujaldev/skylon">A cool project</a></td>
+<td><a href="https://sujal.dev">Homepage</a></td>
+<td><a href="https://resume.sujal.dev">Resume</a></td>
+</tr>
+<tr><td colspan="100%">IRC: sdev on <a href="https://libera.chat">Libera.chat</a></td></tr>
+</table>
 
 ## Repository Index
 
