@@ -112,6 +112,10 @@ Not all repositories are mentioned here.
     My resume.
 </li>
 <li>
+    <a href="https://github.com/sujaldev/cssac-proposal">cssac-proposal</a>:
+    Proposal to start a sysadmin club at my university.
+</li>
+<li>
     <a href="https://github.com/sujaldev/gsoc-proposal">gsoc-proposal</a>:
     My rejected GSoC proposal to mitmproxy (2023).
 </li>
